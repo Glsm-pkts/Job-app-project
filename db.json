@@ -1,0 +1,130 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "96c452ae-88ce-431c-8a7d-144ed6adfc42",
+      "date": "05.03.2024"
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": "02.17.2024"
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": "01.01.2024"
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": "03.04.2024"
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": "04.03.2024"
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "b7f2b2dc-7b84-41e5-bbbe-5850785f02d6",
+      "date": "04.02.2024"
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Emartech",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "f983034e-5d76-4317-8368-502c4c8a8e78",
+      "date": "05.06.2024"
+    },
+    {
+      "id": "ff1d9015-12cf-45b3-98e8-f9ea41c2bf86",
+      "position": "developer",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "6.06.2024"
+    },
+    {
+      "id": "ffaf5d17-9451-4032-8382-5958c7a02c4f",
+      "position": "Web developer",
+      "company": "Emir teach",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "6.06.2024"
+    },
+    {
+      "id": "3cba5a85-3ea0-4853-92d8-97f4b0f106d9",
+      "position": "Amazon",
+      "company": "Native Developer",
+      "location": "İstanbul",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "6.06.2024"
+    },
+    {
+      "id": "019a29f8-a8bc-4e59-9c6c-ab34342f8747",
+      "position": "Web Developer",
+      "company": "Trendyol",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "09.06.2024"
+    },
+    {
+      "id": "6cdfbb9f-a487-4327-aa67-5fa4f4924537",
+      "position": "Web developer",
+      "company": "Amozon",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "09.06.2024"
+    },
+    {
+      "id": "09ee8c2c-3b87-43fd-ad33-414fdcea90ea",
+      "position": "web geliştirici",
+      "company": "hepsi burada",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "09.06.2024"
+    },
+    {
+      "id": "5e91fc74-7c49-466e-8836-d782dd961144",
+      "position": "Native developer",
+      "company": "Mimcode",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "14.07.2024"
+    }
+  ]
+}

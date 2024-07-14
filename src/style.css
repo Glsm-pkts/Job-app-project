@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #242424;
+  color: white;
+  font-family: poppins, sans-serif;
+  font-weight: 400;
+  min-height: 100vh;
+}
+
+.job-count {
+  margin-left: 5px;
+  margin-top: 300px;
+}
+
+.job-card {
+  background: gray;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.head {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.head .letter {
+  height: 60px;
+  width: 60px;
+  background: purple;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.head .info {
+  font-size: 20px;
+}
+
+.body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 30px;
+}
+.body .field {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.body .field img {
+  width: 30px;
+}/*# sourceMappingURL=style.css.map */
